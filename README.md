@@ -3,11 +3,11 @@
 <!-- ======================= -->
 
 <h1 align="center">
-  Hi, it is Saran 
+  Hi, i'm Saran...
 </h1>
 
 <h3 align="center">
-  Developer oriented toward building robust systems grounded in logic, structure, and purpose.
+  A developer oriented toward building robust systems grounded in logic, structure, and purpose.
 </h3>
 
 <p align="center">
@@ -75,21 +75,7 @@
 <!--        STATS            -->
 <!-- ======================= -->
 
-### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saranhere1&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saranhere1&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranhere1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <!-- ======================= -->
 <!--        FOOTER           -->
